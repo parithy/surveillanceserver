@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Server Unit</string>
+    <string name="launch_button_text">Launch</string>
+    
+    
+    <string name="cdnnonetworkalertdispatch">111</string>
+    <string name="cdnnonetworkiprequest">112</string>
+    <string name="cdnnetworkokalertdispatch">113</string>
+    <string name="cdnnetworkokiprequest">113</string>
+    
+    
+    
+   
+    
+    
+ 
+ 
+    
+    
+    <string name="settings">Settings</string>
+    
+</resources>
